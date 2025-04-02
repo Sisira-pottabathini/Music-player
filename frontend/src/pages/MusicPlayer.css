@@ -1,0 +1,8 @@
+.music-player {
+    height: 600px;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #b25fff, #e65b5b);
+  }
